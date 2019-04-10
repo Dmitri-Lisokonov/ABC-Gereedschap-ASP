@@ -1,0 +1,32 @@
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.csprojAssemblyReference.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.csproj.CoreCompileInputs.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.RazorAssemblyInfo.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.RazorAssemblyInfo.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.AssemblyInfoInputs.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.AssemblyInfo.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.deps.json
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.runtimeconfig.json
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.runtimeconfig.dev.json
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.dll
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.pdb
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.Views.dll
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\bin\Debug\netcoreapp2.1\ABC Gereedschap ASP.Views.pdb
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.TagHelpers.input.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.TagHelpers.output.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.RazorCoreGenerate.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.RazorTargetAssemblyInfo.cache
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.RazorTargetAssemblyInfo.cs
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.Views.pdb
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.dll
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.pdb
+C:\Users\daanv\Documents\ICT Semester 2\Proftaak\ABC Gereedschap ASP\ABC Gereedschap ASP\obj\Debug\netcoreapp2.1\ABC Gereedschap ASP.csproj.CopyComplete
